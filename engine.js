@@ -29,3 +29,4 @@ function updateHistory(historyArray) {
     .map((historyInstance) => listComponent(historyInstance))
     .join("");
 }
+
